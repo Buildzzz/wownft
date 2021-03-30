@@ -61,6 +61,7 @@ const TemplateWrapper = ({ children }) => {
                     data.datoCmsHome.introTextNode.childMarkdownRemark.html
                 }}
               />
+              MAKE ME A NFT!
               <ul className="sidebar__menu">
                 <li>
                   <Link to="/">Home</Link>
